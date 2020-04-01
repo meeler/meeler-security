@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="oauth-server" />
+        <module name="order-server" />
       </profile>
     </annotationProcessing>
   </component>
