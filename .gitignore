@@ -1,0 +1,9 @@
+**/bin/**
+**/logs/**
+**/.settings/**
+**/target/**
+**/.project
+**/.classpath
+**/*.iml
+**/.idea/**
+**/.factorypath
